@@ -1,0 +1,14 @@
+body { font-family: sans-serif; background-color: #f4f4f4; padding: 20px; }
+.container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; }
+h1 { text-align: center; }
+input { padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 4px; }
+.form-cadastro { display: flex; gap: 10px; margin-bottom: 20px; }
+#filterInput { width: 100%; box-sizing: border-box; }
+#totalContatos { background: #eee; padding: 10px; margin-bottom: 10px; font-weight: bold; }
+table { width: 100%; border-collapse: collapse; }
+th { background: #1a1a2e; color: white; padding: 10px; text-align: left; }
+td { border-bottom: 1px solid #ddd; padding: 10px; }
+button { cursor: pointer; border: none; padding: 8px 12px; border-radius: 4px; }
+#btnSalvar { background: #004d00; color: white; }
+.btn-alterar { background: #004d00; color: white; margin-right: 5px; }
+.btn-excluir { background: #cc0000; color: white; }
